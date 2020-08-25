@@ -1,7 +1,3 @@
 hola mundo.
-
-holaMundo
-
- “hola mundo.txt
- 
- cd 
+Linea 2
+Linea 3
