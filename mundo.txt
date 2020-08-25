@@ -1,1 +1,7 @@
-hola mundo
+hola mundo.
+
+holaMundo
+
+ “hola mundo.txt
+ 
+ cd 
